@@ -12,8 +12,8 @@
 
 ## Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
