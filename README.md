@@ -12,9 +12,13 @@
 
 ## Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
 
 ## Contacto
 
