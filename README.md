@@ -20,6 +20,6 @@
 
 ## Contacto
 
-Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, no dudes en contactarme a través de mi correo electrónico: 
+Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, no dudes en contactarme a través de mi correo electrónico: kvaldez10@gmail.com 📩
 
 ¡Espero que disfrutes explorando mi trabajo en GitHub! 🎉 Muchas gracias por tu interés.
